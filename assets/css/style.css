@@ -1,0 +1,39 @@
+/* Body*/
+body {  
+    font-family: 'Smooch', cursive;
+}
+/* Quienes Somos*/
+h1 {
+    font-family: 'Merienda', cursive;
+    font-size: 250%;
+}
+/* Parrafos*/
+p {
+    font-family: 'Cookie', cursive;
+    font-size: 25px;
+    
+}
+/* Destacados*/
+h3 {
+    font-family: 'Merienda', cursive;
+    font-size: 250%;
+}
+.card {
+    width: 100%;
+}
+/* Contacto*/
+.form-group {
+    font-family: 'Cookie', cursive;
+    font-size: 130%;
+
+}
+.btn {
+    font-family: 'Cookie', cursive;
+}
+a {
+    text-decoration: none;
+}
+/* Footer*/
+.footer {  
+    margin-right: 20%; 
+}
